@@ -1,3 +1,5 @@
 This is a brief description of this project hosted on Git Hub.
 
 Trying out the various commands in Git.
+
+Understand the usage of git init, git commit, git push, git remote and git checkout commands.
