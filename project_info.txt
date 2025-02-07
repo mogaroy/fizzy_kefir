@@ -7,3 +7,5 @@ Understand the usage of git init, git commit, git push, git remote and git check
 Password authentication no longer works in GitHub for tasks like git pull, git push etc. Instead it is recommended to use either GitCLI or GitSCM to set up authentication.
 
 Testing auth.
+
+Understand branching in git and usage of git branch, git merge and git cherry-pick commands.
